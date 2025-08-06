@@ -14,7 +14,7 @@ WEBSITE- https://frontend-house.vercel.app/
 7. HTML/CSS/Javascript for UI
 
 ## License and Copyright
-© Aryan Verma
+© Prince
 Licensed under the [MIT License](LICENSE).
 
 ## Credits
